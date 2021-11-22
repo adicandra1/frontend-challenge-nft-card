@@ -1,5 +1,5 @@
 
-# Frontend Dev Challenge 1 - from frontendmentor.io
+# Frontend Dev Challenge 1 - from [frontendmentor.io](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 This is coding challenge I participated to improve my Frontend Dev skills
 
@@ -22,3 +22,4 @@ Design guideline can be found in design folder and [style-guide.md](style-guide.
 
 ### 2. Github specific
 - learned how to create github repository from terminal
+- learned how to deploy github pages
